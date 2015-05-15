@@ -2,6 +2,12 @@
 __pycache__/
 *.py[cod]
 
+
+/panaderiapa/settings*.py
+/panaderiapa/wsgi*.py
+db.sqlite3
+*~
+
 # C extensions
 *.so
 
